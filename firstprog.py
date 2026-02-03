@@ -1,0 +1,5 @@
+print ("Hello Shoolni")
+x=input("Write Your Name:")
+y=input("Write Your Age:")
+print(f"{x}{y}@gmail.com")
+print(x,"singh")
