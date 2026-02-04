@@ -1,6 +1,6 @@
-# Python Day 1 Programs
+# Python Programs
 
-This repository contains my first day Python practice programs:
+This repository contains my Python practice programs:
 
 1. Temperature Converter
 2. Simple Calculator
