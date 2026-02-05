@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Ax",
+        "age": 21,
+        "skills": "Sleeping"
+    },
+    {
+        "name": "Bz",
+        "age": 19,
+        "skills": "Eating"
+    },
+    {
+        "name": "Cy",
+        "age": 26,
+        "skills": [
+            "Python",
+            "ML",
+            "Git"
+        ]
+    }
+]
